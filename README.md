@@ -27,20 +27,7 @@ Abstract: Global needs for quantum sensors consist of climate change, seismic sc
 - [LinkedIn](https://www.linkedin.com/in/james-ruel-niere-7a6961216/) - Welcoming you to my "professional" world
 - [Christian-Themed Blog](https://jayrcn.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile) - A Christian theme blog that talks about a range of topics from STEM, School, Life, Sports, Gaming, Language Acquisition, etc that all root back to my faith in Christ as a Christian (Written in English and Korean, Tagalog Blog post are soon to come!)
 
-```python
-class SoftwareEngineer:
 
-    def __init__(self):
-        self.name = "James Niere"
-        self.role = "Aspiring Front End Engineer"
-        self.language_spoken = ["kr_SK", "en_US", "tg_PH"]
-
-    def say_wassssuppp(self):
-        print("Thanks for dropping by, hope you are able to see my progress as a SWE.")
-
-
-me = Aspiring Front End Engineer()
-me.say_wassssuppp()
 
 <style>
   :root {
