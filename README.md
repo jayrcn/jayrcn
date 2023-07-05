@@ -1,5 +1,5 @@
 ### Kumusta Ka Na!~ ㅎㅇ여!!~ Wassupp Yalllll!~ 👋
-I'm James (Jay) Niere, a current UC Berkeley studying EECS Major (might take a break due to extenuating life/health circumstances, in process of deciding the next few semester plans as of right now). During at my time at UCB however, I gradually became more passionate about growing as a software developer and building impactful projects in combination with my desire to combine techincal and creative skills.
+I'm James (Jay) Niere, a current UC Berkeley studying EECS Major (might take a break due to extenuating life/health circumstances, in process of deciding the next few semester plans as of right now). During at my time at UCB however, I gradually became more passionate about growing as a software developer and building impactful projects in combination with my desire to combine techincal and creative skills. :technologist:
 
 - 🌱 I’m excited about learning new stacks and frameworks:
   - Currently, I prefer working with React/Next.js, HTML, and CSS (In general I prefer Front-End Work as a whole)
