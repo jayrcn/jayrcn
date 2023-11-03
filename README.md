@@ -3,7 +3,7 @@ I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time
 
 - 🌱 I’m excited about learning new stacks and frameworks:
   - Currently, I prefer working with React/Next.js, HTML, and CSS (In general I prefer Front-End Work as a whole)
-- 📫 How to reach me: jameskyoto4@gmail.com
+- 📫 How to reach me: jameskyoto4@gmail.com or jayniere@berkeley.edu
 - ⚡ Fun fact: I speak 3 langauges fluently for everyday life! (Tagalog, Korean, English) and I speak another 2 for basic conversation (Chinese, Japanese)
 
 ### Current Project
