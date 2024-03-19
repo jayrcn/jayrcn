@@ -1,4 +1,4 @@
-### Kumusta Ka Na!~ ㅎㅇ여!!~ Wassupp Yalllll!~ 👋:zap:
+### Kumusta Ka Na!~ ㅎㅇ여!!~ Wassupp Yalllll!~ 👋
 I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time at UCB however, I gradually became more passionate about growing as a software developer and building impactful projects in combination with my desire to combine techincal skills. :technologist:
 
 - 🌱 I’m excited about learning new stacks and frameworks:
