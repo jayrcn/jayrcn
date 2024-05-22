@@ -39,5 +39,5 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you are able to see my progress as a SWE.")
 
 
-me = Aspiring Front End Engineer()
+me = Aspiring Software Engineer()
 me.say_wassssuppp()
