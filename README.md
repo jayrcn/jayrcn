@@ -8,7 +8,7 @@ I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time
 
 ### Current Project
 -  [Front-End Projects](jayrcn.github.io) - Personal Website still in development!
--  API for Belden Horizon(https://www.belden.com/) - Will work on API developemnt for Belden Horizon (The Netowrk Solutions Software for the company)
+-  [API for Belden Horizon](https://www.belden.com/) - Will work on API developemnt for Belden Horizon (The Netowrk Solutions Software for the company)
 
 ### Previous Projects
 - [Earthquake Data Analysis Project] Created a project analyzing and plotting the locations and magnitudes of strong earthquakes in the Southernmost region in the Philippines from 1970-2022
