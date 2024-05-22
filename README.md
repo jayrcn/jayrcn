@@ -7,7 +7,7 @@ I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time
 - ⚡ Fun fact: I speak 3 langauges fluently for everyday life! (Tagalog, Korean, English) and I speak another 2 for basic conversation (Chinese, Japanese)
 
 ### Current Project
--  [jayrcn.github.io] - Personal Website still in development!
+-  (jayrcn.github.io) - Personal Website still in development!
 -  [API for Belden Horizon](https://www.belden.com/) - Will work on API developemnt for Belden Horizon (The Netowrk Solutions Software for the company)
 
 ### Previous Projects
