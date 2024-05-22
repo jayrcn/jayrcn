@@ -2,7 +2,7 @@
 I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time at UCB however, I gradually became more passionate about growing as a software developer and building impactful projects in combination with my desire to combine techincal skills. :technologist:
 
 - 🌱 I’m excited about learning new stacks and frameworks:
-  - Currently, I prefer working as a Full-Stack SWE
+  - Always willing to learn different facuets of Software Engineering
 - 📫 How to reach me: jameskyoto4@gmail.com or jayniere@berkeley.edu
 - ⚡ Fun fact: I speak 3 langauges fluently for everyday life! (Tagalog, Korean, English) and I speak another 2 for basic conversation (Chinese, Japanese)
 
