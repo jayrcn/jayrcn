@@ -21,7 +21,6 @@ I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time
 - 2019 (FFA Research) - Researched and discovered the affects of athletic performance in relation to consumption of GMO and NON-GMO foods. (Won a state award).
 - 2021 (NASA Proposal Research) - Reseacrhed on Quantum Interferometry and Signal Systems for Spacecraft and Telescopes. 
 
-Abstract: Global needs for quantum sensors consist of climate change, seismic scanning for earthquakes, and density analysis for future NASA missions to other planets or celestial bodies. In order to optimize the sensor, it must be able to make remote measurements without much loss in accuracy—a mechanical hatch system that works alongside an electronic receiver and transmitter would help with the measurement and collection of quantum sensor data sets. This project will attempt to synthesize current knowledge of technology and modern physics into a prototype that can be extended to uses in space and a proof of concept final paper that contains the efforts and detailed steps of the project. 
 
 #### Links 
 - [LinkedIn](https://www.linkedin.com/in/james-ruel-niere-7a6961216/) - Welcoming you to my "professional" world
