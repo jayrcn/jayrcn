@@ -7,13 +7,14 @@ I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time
 - ⚡ Fun fact: I speak 3 langauges fluently for everyday life! (Tagalog, Korean, English) and I speak another 2 for basic conversation (Chinese, Japanese)
 
 ### Current Project
-- [Spero](https://shopspero.org) - opening a virtual store showcasing Christian-themed merchandise as part of the remote marketing & sales solutions in response to COVID-19
--  [Front-End Projects] - Front-End Projects soon to come!
+-  [Front-End Projects](jayrcn.github.io) - Personal Website still in development!
+-  API for Belden Horizon(https://www.belden.com/) - Will work on API developemnt for Belden Horizon (The Netowrk Solutions Software for the company)
 
 ### Previous Projects
 - [Earthquake Data Analysis Project] Created a project analyzing and plotting the locations and magnitudes of strong earthquakes in the Southernmost region in the Philippines from 1970-2022
 - [S1XT33N Voice Activated Car Project (C/C++ and Electrical Engineering Project)	] - Built a voice-activated car through electrical circuits and C/C++. Spent about 40+ hours on this project over the course of a few months with a partner.
 - [NASA L'SPACE NPWEE Team Researcher] - Was in a team-researched-based academy that created a research proposal for NASA in which we presented our proposed research idea to a panel of engineers and scientists at NASA. I was the secondary project manager for this student research group.
+- - [Spero](https://shopspero.org) - opening a virtual store showcasing Christian-themed merchandise as part of the remote marketing & sales solutions in response to COVID-19
 
 ### Publications
 
