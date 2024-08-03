@@ -13,7 +13,7 @@ I'm James (Jay) Niere, a current UC Berkeley studying EECS and during at my time
 ### Previous Projects
 - [Earthquake Data Analysis Project] Created a project analyzing and plotting the locations and magnitudes of strong earthquakes in the Southernmost region in the Philippines from 1970-2022
 - [S1XT33N Voice Activated Car Project (C/C++ and Electrical Engineering Project)	] - Built a voice-activated car through electrical circuits and C/C++. Spent about 40+ hours on this project over the course of a few months with a partner.
-- [NASA L'SPACE NPWEE Team Researcher] - Was in a team-researched-based academy that created a research proposal for NASA in which we presented our proposed research idea to a panel of engineers and scientists at NASA. I was the secondary project manager for this student research group.
+- [Team Researcher @ NASA] - Was in a team-researched-based academy that created a research proposal for NASA in which we presented our proposed research idea to a panel of engineers and scientists at NASA. I was the secondary project manager for this student research group.
 -  [Spero](https://shopspero.org) - opening a virtual store showcasing Christian-themed merchandise as part of the remote marketing & sales solutions in response to COVID-19
 
 ### Publications
